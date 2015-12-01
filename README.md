@@ -1,2 +1,2 @@
 # automation
-Automated Files for my ease of use
+Files that I need to make my life easier. 
